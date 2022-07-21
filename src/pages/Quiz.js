@@ -32,7 +32,7 @@ const Quiz = () => {
     const fetchQuestions = async () => {
       setIsLoading(true);
       const response = await fetch(
-        "http://my-json-server.typicode.com/DanielBarbakadze/Advanced-JS-and-React-Basics/db"
+        "https://my-json-server.typicode.com/DanielBarbakadze/Advanced-JS-and-React-Basics/db"
       );
       if (!response.ok) {
         throw new Error("Something went wrong!");
