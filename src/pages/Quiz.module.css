@@ -1,0 +1,27 @@
+.quizWrapper {
+  /* background-color: rgb(229, 227, 227); */
+  margin-left: 20px;
+  width: 1100px;
+  margin: 20px auto;
+}
+
+.errorWrapper {
+  text-align: center;
+  margin: 50px auto;
+  margin-bottom: 100px;
+}
+
+.btn {
+  background-color: rgb(38, 38, 235);
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100px;
+  text-align: center;
+  border: none;
+  font-weight: bold;
+  display: block;
+  margin: 30px auto;
+}
