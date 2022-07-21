@@ -4,7 +4,6 @@ import { Fragment } from "react";
 import Home from "./pages/Home";
 import Quiz from "./pages/Quiz";
 import History from "./pages/History";
-import SingleQuestion from "./components/questionCards/SingleQuestion";
 
 function App() {
   return (
